@@ -4,6 +4,10 @@ Learn Python (OOP Level)
 
 Learn Java (OOP Level)
 
+Learn C++
+
+Learn JavaScript
+
 Learn Data Structures & Algorithms
 
 Databases
