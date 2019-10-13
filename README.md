@@ -60,3 +60,6 @@ Information Theory
 
 Boolean Algebra
 
+Signal processing
+
+Design patterns
