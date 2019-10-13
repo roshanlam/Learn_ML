@@ -58,4 +58,5 @@ Mathematical Logic
 
 Information Theory
 
+Boolean Algebra
 
