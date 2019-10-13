@@ -1,14 +1,14 @@
 # Learn_CS
 
-Learn Python (OOP Level)
+Python (OOP Level)
 
-Learn Java (OOP Level)
+Java (OOP Level)
 
-Learn C++
+C++
 
-Learn JavaScript
+JavaScript
 
-Learn Data Structures & Algorithms
+Data Structures & Algorithms
 
 Databases
 
