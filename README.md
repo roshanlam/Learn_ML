@@ -53,3 +53,9 @@ Numerical analysis
 Theory Of Computation
 
 Mathematical Optimization
+
+Mathematical Logic 
+
+Information Theory
+
+
