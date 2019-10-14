@@ -2,13 +2,23 @@
 
 Python (OOP Level)
 
+https://www.codecademy.com/catalog/language/python
+
 Java (OOP Level)
+
+https://www.codecademy.com/catalog/language/java
 
 C++
 
+https://www.codecademy.com/catalog/language/cpp
+
 JavaScript
 
+https://www.codecademy.com/catalog/language/javascript
+
 Data Structures & Algorithms
+
+https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm
 
 Databases
 
