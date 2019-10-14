@@ -36,7 +36,7 @@ Discrete Mathematics
 
 Number Theory
 
-Calculus ( 1 - 3)
+Calculus (1 - 3)
 
 Linear Algebra
 
