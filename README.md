@@ -1,76 +1,98 @@
 # Learn_ML
 
-Python (OOP Level)
+* Python (OOP Level)
 
 https://www.codecademy.com/catalog/language/python
 
-Java (OOP Level)
+* Java (OOP Level)
 
 https://www.codecademy.com/catalog/language/java
 
-C++
+* C++
 
 https://www.codecademy.com/catalog/language/cpp
 
-JavaScript
+* JavaScript
 
 https://www.codecademy.com/catalog/language/javascript
 
-Data Structures & Algorithms
+* Data Structures & Algorithms
 
 https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm
 
-Databases
+* Databases
 
-Networking
+* Data Science 
 
-Web Development
+* Computer Vision
 
-App Development
+* Natural Language Processing
 
-Data Science 
+* Software Engineering Practices
 
-Computer Vision
+* BlockChain
 
-Natural Language Processing
+* Cryptography 
 
-Software Engineering Practices
+# Math for ML
 
-BlockChain
+* Discrete Mathematics
 
-Ethical Hacking
+* Number Theory
 
-Cryptography 
+* Calculus (1 - 3)
 
-Discrete Mathematics
+* Linear Algebra
 
-Number Theory
+* Differential Equations
 
-Calculus (1 - 3)
+* Topology
 
-Linear Algebra
+* Statistics
 
-Differential Equations
+* Computer Algebra 
 
-Topology
+* Numerical analysis
 
-Statistics
+* Theory Of Computation
 
-Computer Algebra 
+* Mathematical Optimization
 
-Numerical analysis
+* Mathematical Logic 
 
-Theory Of Computation
+* Information Theory
 
-Mathematical Optimization
+* Boolean Algebra
 
-Mathematical Logic 
 
-Information Theory
+# Tools and Frameworks to learn for ML
 
-Boolean Algebra
+* Tensorflow
 
-Signal processing
+* numpy 
 
-Design patterns
+* CAFFE (Convolutional Architecture for Fast Feature Embedding)
 
+* TORCH (for python PyTorch)
+
+* Apache Spark (learning it right now)
+
+* Scikit-Learn
+
+* Apache Mahout
+
+* Apache Singa
+
+* Sonnet
+
+* Keras
+
+* MXNet
+
+* Glun
+
+* Chainer
+
+* DL4J
+
+* ONNX
