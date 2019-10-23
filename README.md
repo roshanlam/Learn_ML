@@ -22,6 +22,10 @@ https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overvie
 
 * Databases
 
+https://www.codecademy.com/learn/learn-sql
+
+
+
 * Data Science 
 
 * Computer Vision
