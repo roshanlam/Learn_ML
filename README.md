@@ -29,7 +29,6 @@ https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overvie
 https://www.codecademy.com/learn/learn-sql
 
 
-
 * Data Science 
 
 https://www.youtube.com/watch?v=ua-CiDNNj30
