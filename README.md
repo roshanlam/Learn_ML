@@ -61,6 +61,7 @@ https://www.youtube.com/playlist?list=PL36enNxU148RzQ8zwL8FHgg7ef_-5p3cQ (C++)
 
 
 * BlockChain
+
 https://www.youtube.com/watch?v=pZSegEXtgAE (Python)
 
 https://www.youtube.com/watch?v=XpMTHeJdyjg (Java)
@@ -71,6 +72,7 @@ https://www.youtube.com/watch?v=XdKv5uwEk5A (Code Your Own Cryptocurrency on Eth
 
 
 * Cryptography 
+
 https://www.youtube.com/watch?v=cqgtdkURzTE 
 
 https://www.youtube.com/watch?v=GxpWCbCB8Wc (Python)
@@ -201,8 +203,12 @@ https://www.youtube.com/watch?v=of-Q92cD850 (R)
 
 * Glun
 
+https://www.youtube.com/watch?v=r4-Ynxw0X5w&list=PLkEvNnRk8uVmVKRDgznk3o3LxmjFRaW7s 
+
 * Chainer
+
+https://www.youtube.com/watch?v=5xDhNpPyBv4 (Python)
 
 * DL4J
 
-* ONNX
+https://www.youtube.com/watch?v=y0vHB4YfvWs (Java)
