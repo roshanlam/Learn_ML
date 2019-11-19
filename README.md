@@ -16,6 +16,10 @@ https://www.codecademy.com/catalog/language/cpp
 
 https://www.codecademy.com/catalog/language/javascript
 
+* R
+
+https://www.youtube.com/watch?v=_V8eKsto3Ug 
+
 * Data Structures & Algorithms
 
 https://www.tutorialspoint.com/data_structures_algorithms/data_structure_overview.htm
